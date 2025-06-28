@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Getting Started
 
@@ -16,21 +16,34 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tasks Completed :
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+→ authentication using JWT
+![jwt auth 1](https://github.com/user-attachments/assets/851949a9-304b-4868-af9c-5cbfc4e9771f)
+![jwt auth 2](https://github.com/user-attachments/assets/94766a25-50e7-4774-850e-067a1faf1c2d)
+![jwt auth 3](https://github.com/user-attachments/assets/b3c9b0a5-e341-4297-8f3f-4d9204cea063)
+                  token added as a cookie after successfull login
 
-## Learn More
+→ dark mode toggle
+![dark mode toggle](https://github.com/user-attachments/assets/a58c20d9-411c-4c5b-96a7-1a896db5f544)
 
-To learn more about Next.js, take a look at the following resources:
+→ support for due dates
+![support for due dates](https://github.com/user-attachments/assets/93bfee2d-a1ed-427d-9308-128d8d935888)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+→ adding priority field (Low, Medium, High)
+![adding priority](https://github.com/user-attachments/assets/7b9747b6-e578-4fa4-b8f1-583592ea897b)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+→ Filtering by completion status 
+![filtering by completion status](https://github.com/user-attachments/assets/b6d7d45f-dd8a-4aec-9106-adf0e5858222)
 
-## Deploy on Vercel
+→ Filtering by proirity
+![filtering by priority](https://github.com/user-attachments/assets/e504b390-fb45-4dba-84fc-352950897f4c)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+→ task archiving functionality, deleting a task, restoring archived task
+![task archiving functionality](https://github.com/user-attachments/assets/704bed7d-e6bf-41e9-aa45-9f36c696446c)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+→ task completion toggle
+![task completion toggle](https://github.com/user-attachments/assets/92bdb836-60fc-4e6c-92ef-b04e22b183ba)
+
+→ see archived tasks
+<img width="1202" alt="see archived tasks" src="https://github.com/user-attachments/assets/607403e6-bacc-4471-bf22-8f8215948f62" />
