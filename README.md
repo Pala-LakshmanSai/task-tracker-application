@@ -47,3 +47,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 → see archived tasks
 <img width="1202" alt="see archived tasks" src="https://github.com/user-attachments/assets/607403e6-bacc-4471-bf22-8f8215948f62" />
+
+
+
+##commit history
+![commit history 2](https://github.com/user-attachments/assets/764e2bf7-fbe1-4415-9e55-c61c08c35cc7)
+![commit history 1](https://github.com/user-attachments/assets/f9414dc0-4cb1-4b90-8568-26750a73477e)
+![commit history 3](https://github.com/user-attachments/assets/ee750fe7-6aa6-4102-bfaa-c6e78f470b2d)
